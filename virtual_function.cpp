@@ -3,8 +3,8 @@ using namespace std;
 int main() {
   /*oops concepts 
   1.polymorphism 
-  1(a).runtime polymorphism ____________** method overloading 
-  1(b).compile time polymorphism _____*** method overriding
+  1(a).runtime polymorphism ____________** method overriding
+  1(b).compile time polymorphism _____***method overloading  
   2.encapsulation
   3.inheritance
 concept of virtual function (why would even bother 
